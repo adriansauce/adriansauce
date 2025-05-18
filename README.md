@@ -4,7 +4,7 @@
 🌩️ Currently exploring **Kubernetes, Docker, and Cloud Platforms (GCP/AWS)**  
 🚀 I love automating things and building scalable systems  
 📚 Always learning: DevOps | Cloud | CI/CD | Infrastructure as Code  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:you@example.com)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-adrian-7b2b97337/) | [Email](ma469993@gmail.com)
 
 ---
 
