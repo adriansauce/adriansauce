@@ -8,6 +8,38 @@
 
 ---
 
+<details> <summary>🧬 <b>Click to expand: YAML-style bio</b></summary>
+yaml
+Salin
+Edit
+apiVersion: v1
+kind: Human
+metadata:
+  name: Adrian
+spec:
+  role: DevOps Enthusiast
+  purpose: Automate everything, learn cloud-native tech
+  learning:
+    - Docker
+    - Kubernetes
+    - GitHub Actions
+    - Terraform
+    - GCP
+  contact:
+    - type: LinkedIn
+      url: https://www.linkedin.com/in/muhammad-adrian-7b2b97337/
+    - type: Email
+      url: mailto:ma469993@gmail.com
+    - type: GitHub
+      url: https://github.com/adriansauce
+  favorites:
+    terminal: zsh
+    editor: VS Code
+    os: Linux
+    emoji: 🐧
+    quote: "Automate all the things!"
+</details>
+
 ### 🔧 Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
