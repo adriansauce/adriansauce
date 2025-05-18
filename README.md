@@ -8,23 +8,10 @@
 
 ---
 
+<details>
+<summary>🧬 <b>Click to expand: YAML-style bio</b></summary>
 
-### 🔧 Tools & Technologies
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriansauce&show_icons=true&theme=tokyonight)
-
-
-yaml
-Salin
-Edit
+```yaml
 apiVersion: v1
 kind: Human
 metadata:
@@ -51,4 +38,17 @@ spec:
     os: Linux
     emoji: 🐧
     quote: "Automate all the things!"
+</details>
+
+### 🔧 Tools & Technologies
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriansauce&show_icons=true&theme=tokyonight)
 
