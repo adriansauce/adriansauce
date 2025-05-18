@@ -7,10 +7,6 @@
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-adrian-7b2b97337/) | [Email](ma469993@gmail.com)
 
 ---
-
-<details>
-<summary>🧬 <b>Click to expand: YAML-style bio</b></summary>
-
 ```yaml
 apiVersion: v1
 kind: Human
@@ -38,7 +34,7 @@ spec:
     os: Linux
     emoji: 🐧
     quote: "Automate all the things!"
-</details>
+```
 
 ### 🔧 Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
