@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Adrian 👋
 
-<!--
-**adriansauce/adriansauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m learning to become a **DevOps Engineer**  
+🌩️ Currently exploring **Kubernetes, Docker, and Cloud Platforms (GCP/AWS)**  
+🚀 I love automating things and building scalable systems  
+📚 Always learning: DevOps | Cloud | CI/CD | Infrastructure as Code  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:you@example.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Technologies
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriansauce&show_icons=true&theme=tokyonight)
